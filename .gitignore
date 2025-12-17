@@ -1,1 +1,15 @@
+# Dependencies
 node_modules
+
+# Environment variables
+.env
+
+# Log files
+logs
+*.log
+
+# OS generated files
+.DS_Store
+
+# IDE generated files
+.idea
